@@ -235,3 +235,14 @@ h1{
     font-weight: bold;
     font-size: large;
 }
+.line{
+    margin-left: 200px;
+    margin-right: 500px;
+}
+#hobln{
+    margin-right: 500px;
+    color: white;
+}
+#conln{
+    margin-left: 500px;
+}
