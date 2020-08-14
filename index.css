@@ -1,0 +1,131 @@
+body{
+    /* background-color: rgb(160, 186, 204); */
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    color: black;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    
+    padding: 0px;
+    margin: 0px;
+}
+
+#bg1{
+
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('static/bglights1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(160, 186, 204);
+}
+#abtme{
+    margin-top: 15%;
+    font-family: sans-serif;
+}
+#abtttle{
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: 5%;
+    color: rgb(18, 5, 92);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#img{
+    margin-left: 200px;
+    float: left;
+    margin-top: 30px;
+    padding-right: 30px;
+    
+    
+}
+.txtscroll{
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: larger;
+    margin-left: 200px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#bg2{
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('static/bgimg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0px;
+    padding: 0px;
+    color: whitesmoke;
+    
+}
+#hobttle{
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: 5%;
+    padding-top: 50px;
+    color: rgb(248, 161, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#txtscroll{
+    margin-right: 500px;
+}
+
+#projtle{
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: 5%;
+    color: rgb(18, 5, 92);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.row{
+    margin-left: 200px;
+
+}
+.column{
+    float: left;
+    width: 33.33%;
+    text-align: center;
+
+}
+.projscroll{
+    line-height: 30px;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+  
+#bg3{
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('static/bglights1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    
+}
+#conttxt{
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(160, 186, 204);
+    font-size: 25px;
+    padding-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#contacts{
+    text-align: center;
+    color: rgb(160, 186, 204);
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration-line: underline;
+}
