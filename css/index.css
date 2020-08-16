@@ -70,6 +70,12 @@ h1{
     margin-left: 200px ;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+#scroll1{
+    -webkit-animation-duration: 2s;
+            animation-duration: 2s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+}
 
 #bg2{
     height: 100%;
@@ -81,6 +87,10 @@ h1{
     margin: 0px;
     padding: 0px;
     color: whitesmoke;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
     
 }
 #hobttle{
@@ -94,6 +104,13 @@ h1{
 }
 #txtscroll{
     margin-right: 500px;
+}
+
+#scroll2{
+    -webkit-animation-duration: 2s;
+            animation-duration: 2s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
 }
 
 #projtle{
@@ -129,7 +146,10 @@ h1{
     background-size: cover;
     background-position: center center;
     text-align: center;
-    
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
 }
 #conttxt{
     text-align: center;
