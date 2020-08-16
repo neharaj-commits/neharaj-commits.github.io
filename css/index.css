@@ -226,7 +226,7 @@ h1{
     color: white;
   } */
 
-.btn{
+/* .btn{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:rgb(160, 186, 204); 
     color: black;
@@ -234,6 +234,9 @@ h1{
     height: 50px;
     font-weight: bold;
     font-size: large;
+} */
+.imgicon:hover {
+    opacity: 0.5;
 }
 .line{
     margin-left: 200px;
