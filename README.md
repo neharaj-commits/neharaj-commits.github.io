@@ -1,2 +1,2 @@
-# A website page about myself at
+# A website page about myself for LoginRadius at
 https://neharaj-commits.github.io/
