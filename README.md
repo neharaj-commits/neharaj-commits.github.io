@@ -1,2 +1,2 @@
-# A website page about myself for LoginRadius at
+# Neha Rajagopalan's webpage and portfolio:
 https://neharaj-commits.github.io/
